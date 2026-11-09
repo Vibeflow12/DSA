@@ -18,3 +18,12 @@ $$
 \mathcal{O}(1) \quad \rightarrow \quad \mathcal{O}(\log_2 N) \quad \rightarrow \quad \mathcal{O}(\sqrt{N}) \quad \rightarrow \quad \mathcal{O}(N) \\
 \rightarrow \quad \mathcal{O}(N \log_2 N) \quad \rightarrow \quad \mathcal{O}(N\sqrt{N}) \quad \rightarrow \quad \mathcal{O}(N^2) \quad \rightarrow \quad \mathcal{O}(N^3) \quad \rightarrow \quad \mathcal{O}(2^N)
 $$
+
+
+### <u>Space Complexity</u>
+
+**How much memory/space is utilized at the peak point of execution.**
+
+* **Definition:** Measures the total amount of computer memory (RAM) an algorithm requires relative to the input size ($N$).
+
+* **Auxiliary Space:** The extra or temporary space used by the algorithm *excluding* the input storage itself.
