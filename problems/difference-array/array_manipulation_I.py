@@ -25,3 +25,5 @@ array_manipulation(n, q, arr)
 #
 # SPACE COMPLEXITY
 # O(N)
+
+# difference array technique
